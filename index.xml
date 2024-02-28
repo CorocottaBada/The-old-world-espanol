@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Warhammer: The old world (Español)" indexUrl="https://raw.githubusercontent.com/CorocottaBada/The-old-world-espanol/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer The old world (Español).gstz" dataType="gamesystem" dataId="dfdc-8d68-90f9-7f0e" dataName="Warhammer: The old world (Español)" dataBattleScribeVersion="2.03" dataRevision="10"/>
+    <dataIndexEntry filePath="Warhammer The old world (Español).gstz" dataType="gamesystem" dataId="dfdc-8d68-90f9-7f0e" dataName="Warhammer: The old world (Español)" dataBattleScribeVersion="2.03" dataRevision="11"/>
+    <dataIndexEntry filePath="Reinos ogros.catz" dataType="catalogue" dataId="6ae9-9908-3f18-470f" dataName="Reinos ogros" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Orcos y Goblins.catz" dataType="catalogue" dataId="f456-4442-9364-77c3" dataName="Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Reino de Bretonia.catz" dataType="catalogue" dataId="af49-3c9d-5c85-d8b5" dataName="Reino de Bretonia" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Guerreros del caos.catz" dataType="catalogue" dataId="a6b7-eb86-b121-a8c1" dataName="Guerreros del caos" dataBattleScribeVersion="2.03" dataRevision="5"/>
