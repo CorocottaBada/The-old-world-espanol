@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer: The old world (Español)" indexUrl="https://raw.githubusercontent.com/CorocottaBada/The-old-world-espanol/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer the old world (español)" indexUrl="https://raw.githubusercontent.com/CorocottaBada/The-old-world-espanol/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer The old world (Español).gstz" dataType="gamesystem" dataId="dfdc-8d68-90f9-7f0e" dataName="Warhammer: The old world (Español)" dataBattleScribeVersion="2.03" dataRevision="11"/>
-    <dataIndexEntry filePath="Reinos ogros.catz" dataType="catalogue" dataId="6ae9-9908-3f18-470f" dataName="Reinos ogros" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Orcos y Goblins.catz" dataType="catalogue" dataId="f456-4442-9364-77c3" dataName="Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="6"/>
-    <dataIndexEntry filePath="Reino de Bretonia.catz" dataType="catalogue" dataId="af49-3c9d-5c85-d8b5" dataName="Reino de Bretonia" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="Guerreros del caos.catz" dataType="catalogue" dataId="a6b7-eb86-b121-a8c1" dataName="Guerreros del caos" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="El Imperio.catz" dataType="catalogue" dataId="b0aa-8a66-261b-6149" dataName="El Imperio" dataBattleScribeVersion="2.03" dataRevision="11"/>
-    <dataIndexEntry filePath="Demonios del caos.catz" dataType="catalogue" dataId="a331-02f9-bb68-3b7e" dataName="Demonios del caos" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="5b0e-b6c7-261f-0be8" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="7"/>
-    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="ee23-5323-b555-7c9a" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Hombres bestia.catz" dataType="catalogue" dataId="b9c0-f345-9d5b-2e20" dataName="Hombres bestia" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="917c-d9aa-81a3-800b" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="5d1e-60ac-f6c5-e92c" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="7"/>
+    <dataIndexEntry filePath="Warhammer The old world (Español).gstz" dataType="gamesystem" dataId="dfdc-8d68-90f9-7f0e" dataName="Warhammer: The old world (Español)" dataBattleScribeVersion="2.03" dataRevision="12"/>
+    <dataIndexEntry filePath="El Imperio.catz" dataType="catalogue" dataId="b0aa-8a66-261b-6149" dataName="El Imperio" dataBattleScribeVersion="2.03" dataRevision="12"/>
+    <dataIndexEntry filePath="Reyes funerarios.catz" dataType="catalogue" dataId="4fbc-e2f4-9c5f-103c" dataName="Reyes funerarios" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="ff41-9ec7-2763-27ac" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Bastiones enanos.catz" dataType="catalogue" dataId="023c-8f43-8bef-6736" dataName="Bastiones enanos" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="Khemri.catz" dataType="catalogue" dataId="4fbc-e2f4-9c5f-103c" dataName="Khemri" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Cruzada de los caballeros noveles.catz" dataType="catalogue" dataId="0e9e-8add-a9ce-3954" dataName="Cruzada de los caballeros noveles" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Demonios del caos.catz" dataType="catalogue" dataId="a331-02f9-bb68-3b7e" dataName="Demonios del caos" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="5b0e-b6c7-261f-0be8" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="9"/>
+    <dataIndexEntry filePath="Bastiones enanos.catz" dataType="catalogue" dataId="023c-8f43-8bef-6736" dataName="Bastiones enanos" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Guerreros del caos.catz" dataType="catalogue" dataId="a6b7-eb86-b121-a8c1" dataName="Guerreros del caos" dataBattleScribeVersion="2.03" dataRevision="7"/>
+    <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="5d1e-60ac-f6c5-e92c" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="7"/>
+    <dataIndexEntry filePath="Exhiliados bretonianos.catz" dataType="catalogue" dataId="56a6-7b3d-411d-1263" dataName="Exhiliados bretonianos" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Hueste real de Nehekhara.catz" dataType="catalogue" dataId="f695-ff1c-8276-0ecf" dataName="Hueste real de Nehekhara" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Skaven.catz" dataType="catalogue" dataId="11db-b55e-c322-7812" dataName="Skaven" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Hombres bestia.catz" dataType="catalogue" dataId="b9c0-f345-9d5b-2e20" dataName="Hombres bestia" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="ee23-5323-b555-7c9a" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Culto mortuorio de Khemri.catz" dataType="catalogue" dataId="759f-a5e8-a4a6-6b70" dataName="Culto mortuorio de Khemri" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Orcos y Goblins.catz" dataType="catalogue" dataId="f456-4442-9364-77c3" dataName="Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="7"/>
+    <dataIndexEntry filePath="Reinos ogros.catz" dataType="catalogue" dataId="6ae9-9908-3f18-470f" dataName="Reinos ogros" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Reino de Bretonia.catz" dataType="catalogue" dataId="af49-3c9d-5c85-d8b5" dataName="Reino de Bretonia" dataBattleScribeVersion="2.03" dataRevision="7"/>
+    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="917c-d9aa-81a3-800b" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="c200-c424-cdfe-7033" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="1"/>
   </dataIndexEntries>
 </dataIndex>
