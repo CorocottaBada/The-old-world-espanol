@@ -2,7 +2,7 @@
 <dataIndex battleScribeVersion="2.03" name="Warhammer the old world" indexUrl="https://raw.githubusercontent.com/CorocottaBada/The-old-world-espanol/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer The old world (Español).gstz" dataType="gamesystem" dataId="dfdc-8d68-90f9-7f0e" dataName="Warhammer: The old world (Español)" dataBattleScribeVersion="2.03" dataRevision="17"/>
-    <dataIndexEntry filePath="El Imperio.catz" dataType="catalogue" dataId="b0aa-8a66-261b-6149" dataName="El Imperio" dataBattleScribeVersion="2.03" dataRevision="17"/>
+    <dataIndexEntry filePath="El Imperio.catz" dataType="catalogue" dataId="b0aa-8a66-261b-6149" dataName="El Imperio" dataBattleScribeVersion="2.03" dataRevision="18"/>
     <dataIndexEntry filePath="Reinos de los elfos silvanos.catz" dataType="catalogue" dataId="5d1e-60ac-f6c5-e92c" dataName="Reinos de los Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="13"/>
     <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="ff41-9ec7-2763-27ac" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="Cruzada de los caballeros noveles.catz" dataType="catalogue" dataId="0e9e-8add-a9ce-3954" dataName="Cruzada de los caballeros noveles" dataBattleScribeVersion="2.03" dataRevision="6"/>
