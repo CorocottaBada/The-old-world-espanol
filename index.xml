@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Warhammer the old world" indexUrl="https://raw.githubusercontent.com/CorocottaBada/The-old-world-espanol/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer The old world (Español).gstz" dataType="gamesystem" dataId="dfdc-8d68-90f9-7f0e" dataName="Warhammer: The old world (Español)" dataBattleScribeVersion="2.03" dataRevision="26"/>
+    <dataIndexEntry filePath="Warhammer The old world (Español).gstz" dataType="gamesystem" dataId="dfdc-8d68-90f9-7f0e" dataName="Warhammer: The old world (Español)" dataBattleScribeVersion="2.03" dataRevision="27"/>
     <dataIndexEntry filePath="Waaagh nómada.catz" dataType="catalogue" dataId="6a0a-2efe-afa5-f94b" dataName="Waaagh nómada" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Reinos de los elfos silvanos.catz" dataType="catalogue" dataId="5d1e-60ac-f6c5-e92c" dataName="Reinos de los Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="18"/>
-    <dataIndexEntry filePath="Reinos de los altos elfos.catz" dataType="catalogue" dataId="5b0e-b6c7-261f-0be8" dataName="Reinos de los altos elfos" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="Reinos de los altos elfos.catz" dataType="catalogue" dataId="5b0e-b6c7-261f-0be8" dataName="Reinos de los altos elfos" dataBattleScribeVersion="2.03" dataRevision="20"/>
     <dataIndexEntry filePath="Órdenes caballerescas.catz" dataType="catalogue" dataId="d4c7-bf5b-bd59-8c1e" dataName="Órdenes caballerescas" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="917c-d9aa-81a3-800b" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="10"/>
+    <dataIndexEntry filePath="Hueste de guerra de Cracia.catz" dataType="catalogue" dataId="75e8-763f-c70b-9e9d" dataName="Hueste de guerra de Cracia" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Guarnición de la guardia del mar.catz" dataType="catalogue" dataId="39d4-9c30-01b3-09ad" dataName="Guarnición de la guardia del mar" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Skaven.catz" dataType="catalogue" dataId="11db-b55e-c322-7812" dataName="Skaven" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="Heraldos de la oscuridad.catz" dataType="catalogue" dataId="36ca-8352-58e7-0a74" dataName="Heraldos de la oscuridad" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Exhiliados bretonianos.catz" dataType="catalogue" dataId="56a6-7b3d-411d-1263" dataName="Exhiliados bretonianos" dataBattleScribeVersion="2.03" dataRevision="9"/>
