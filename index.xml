@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Warhammer the old world" indexUrl="https://raw.githubusercontent.com/CorocottaBada/The-old-world-espanol/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer The old world (Español).gstz" dataType="gamesystem" dataId="dfdc-8d68-90f9-7f0e" dataName="Warhammer: The old world (Español)" dataBattleScribeVersion="2.03" dataRevision="28"/>
-    <dataIndexEntry filePath="Waaagh nómada.catz" dataType="catalogue" dataId="6a0a-2efe-afa5-f94b" dataName="Waaagh nómada" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="Warhammer The old world (Español).gstz" dataType="gamesystem" dataId="dfdc-8d68-90f9-7f0e" dataName="Warhammer: The old world (Español)" dataBattleScribeVersion="2.03" dataRevision="29"/>
+    <dataIndexEntry filePath="Waaagh nómada.catz" dataType="catalogue" dataId="6a0a-2efe-afa5-f94b" dataName="Waaagh nómada" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Reinos de los elfos silvanos.catz" dataType="catalogue" dataId="5d1e-60ac-f6c5-e92c" dataName="Reinos de los Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="20"/>
     <dataIndexEntry filePath="Reinos de los altos elfos.catz" dataType="catalogue" dataId="5b0e-b6c7-261f-0be8" dataName="Reinos de los altos elfos" dataBattleScribeVersion="2.03" dataRevision="21"/>
     <dataIndexEntry filePath="Órdenes caballerescas.catz" dataType="catalogue" dataId="d4c7-bf5b-bd59-8c1e" dataName="Órdenes caballerescas" dataBattleScribeVersion="2.03" dataRevision="3"/>
@@ -31,6 +31,6 @@
     <dataIndexEntry filePath="Cruzada de los caballeros noveles.catz" dataType="catalogue" dataId="0e9e-8add-a9ce-3954" dataName="Cruzada de los caballeros noveles" dataBattleScribeVersion="2.03" dataRevision="13"/>
     <dataIndexEntry filePath="Fuerza expedicionaria.catz" dataType="catalogue" dataId="b07d-41cd-e514-5e03" dataName="Fuerza expedicionaria" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Rebaños de hombres bestia.catz" dataType="catalogue" dataId="b9c0-f345-9d5b-2e20" dataName="Rebaños de hombres bestia" dataBattleScribeVersion="2.03" dataRevision="12"/>
-    <dataIndexEntry filePath="Orcos y Goblins.catz" dataType="catalogue" dataId="f456-4442-9364-77c3" dataName="Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="22"/>
+    <dataIndexEntry filePath="Orcos y Goblins.catz" dataType="catalogue" dataId="f456-4442-9364-77c3" dataName="Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="25"/>
   </dataIndexEntries>
 </dataIndex>
