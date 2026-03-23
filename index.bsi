@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataIndex>
+  <dataFile path="Warhammer_Viejo_Mundo.gst"/>
+
+  <dataFile path="Altos_Elfos.cat"/>
+  <dataFile path="Altos_Elfos.Cracia.cat"/>
+  <dataFile path="Altos_Elfos.Guardia_Mar.cat"/>
+
+  <dataFile path="Bestias.cat"/>
+  <dataFile path="Bestias.Manada_salvaje.cat"/>
+  <dataFile path="Bestias.Minotauros.cat"/>
+
+  <dataFile path="Bretonia.cat"/>
+  <dataFile path="Bretonia.Cruzados.cat"/>
+  <dataFile path="Bretonia.Exhiliados.cat"/>
+
+  <dataFile path="Catai.cat"/>
+  <dataFile path="Catai.Flota_Jade.cat"/>
+  <dataFile path="Catai.Guerreros.cat"/>
+
+  <dataFile path="Condes.cat"/>
+  <dataFile path="Coronas_renegadas.cat"/>
+  <dataFile path="Demonios.cat"/>
+
+  <dataFile path="Elfos_Oscuros.cat"/>
+  <dataFile path="Enanos_caos.cat"/>
+
+  <dataFile path="Enanos.cat"/>
+  <dataFile path="Enanos.Clan_real.cat"/>
+  <dataFile path="Enanos.Fuerza_expedicionaria.cat"/>
+  <dataFile path="Enanos.Hueste_matadores.cat"/>
+
+  <dataFile path="Guerreros.cat"/>
+  <dataFile path="Guerreros.Heraldos.cat"/>
+  <dataFile path="Guerreros.Lobos.cat"/>
+
+  <dataFile path="Hombres_lagarto.cat"/>
+
+  <dataFile path="Imperio.cat"/>
+  <dataFile path="Imperio.Caballeria.cat"/>
+  <dataFile path="Imperio.Nuln.cat"/>
+
+  <dataFile path="Ogros.cat"/>
+
+  <dataFile path="Orcos_Goblins.cat"/>
+  <dataFile path="Orcos_Goblins.Nomadas.cat"/>
+  <dataFile path="Orcos_Goblins.Horda_troll.cat"/>
+
+  <dataFile path="Reyes.cat"/>
+  <dataFile path="Reyes.Culto.cat"/>
+  <dataFile path="Reyes.Hueste_real.cat"/>
+
+  <dataFile path="Silvanos.cat"/>
+  <dataFile path="Silvanos.Caceria_Salvaje.cat"/>
+  <dataFile path="Silvanos.Hueste_Talsyn.cat"/>
+
+  <dataFile path="Skaven.cat"/>
+</dataIndex>
