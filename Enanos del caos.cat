@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="c200-c424-cdfe-7033" name="Enanos del Caos" revision="11" battleScribeVersion="2.03" authorName="Corocotta Bada" authorContact="corocotta10@gmail.com" authorUrl="https://eljabalipisador.com/" library="false" gameSystemId="dfdc-8d68-90f9-7f0e" gameSystemRevision="35" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="c200-c424-cdfe-7033" name="Enanos del Caos" revision="11" battleScribeVersion="2.03" authorName="Corocotta Bada" authorContact="corocotta10@gmail.com" authorUrl="https://eljabalipisador.com/" library="false" gameSystemId="dfdc-8d68-90f9-7f0e" gameSystemRevision="36" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
     <selectionEntry id="7446-28a5-e02f-a7fd" name="Jurahierros de hierro infernales" hidden="false" collective="false" import="true" type="upgrade">
       <modifiers>
